@@ -24,5 +24,5 @@
 
 <br clear="both">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ax00z/ax00z/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ax00z/ax00z/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+![GitHub Snake Light](github-contribution-grid-snake.svg)
+![GitHub Snake dark](github-contribution-grid-snake.svg)
