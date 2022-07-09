@@ -26,5 +26,3 @@
 
 <img href="https://raw.githubusercontent.com/ax00z/ax00z/blob/output/snake.svg" alt="Snake animation" />
 
-###
-Profile Readme Generator
