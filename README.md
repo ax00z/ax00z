@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>My name is Amir and I'm a CS student at Ryerson/TMU. </h2>
+<h3 align="left">Hi 👋 <br>My name is Amir and I'm a CS student at TMU (Ryerson). </h3>
 
 ###
 
@@ -21,6 +21,7 @@
 </div>
 
 ###
+
 <br clear="both">
 
 ![GitHub Snake Light](https://github.com/ax00z/ax00z/blob/247c155cd922a2f93ce80c9afab1d1a102d77721/github-contribution-grid-snake.svg#gh-light-mode-only)
