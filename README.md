@@ -24,5 +24,5 @@
 
 <br clear="both">
 
-![GitHub Snake Light](https://github.com/ax00z/ax00z/blob/247c155cd922a2f93ce80c9afab1d1a102d77721/github-contribution-grid-snake.svg)
-![GitHub Snake dark](github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://github.com/ax00z/ax00z/blob/247c155cd922a2f93ce80c9afab1d1a102d77721/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/ax00z/ax00z/blob/247c155cd922a2f93ce80c9afab1d1a102d77721/github-contribution-grid-snake.svg#gh-dark-mode-only)
