@@ -1,5 +1,3 @@
-<h2 align="left"> Hi 👋 <br>My name is Amir and I'm a CS student at TMU (Ryerson). </h2>
-
 ###
 
 <div align="left">
