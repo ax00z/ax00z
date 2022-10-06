@@ -1,7 +1,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=ax00z" height="360" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=520&langs_count=20&theme=github_dark&hide_border=true&username=ax00z" height="450" alt="languages graph"  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=520&langs_count=9&theme=github_dark&hide_border=true&username=ax00z" height="250" alt="languages graph"  />
 </div>
 
+![GitHub Snake Light](https://github.com/ax00z/ax00z/blob/247c155cd922a2f93ce80c9afab1d1a102d77721/github-contribution-grid-snake.svg#gh-light-mode-only)
