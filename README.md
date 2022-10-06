@@ -1,6 +1,4 @@
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ax00z/ax00z/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ax00z/ax00z/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<h2> Hey there! 👋 I'm Amir. </h2>
+<img align='left' src="https://github-readme-stats-5fdvlt3gq-ax00z.vercel.app/api?username=ax00z&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,prs&custom_title=My+GitHub+Stats">
 
-<a>
-<img align="left" src="https://github-readme-stats-ax00z.vercel.app/api/top-langs?locale=en&hide_title=false&hide=scss,css&layout=default&langs_count=9&theme=ayu-mirage&hide_border=false&username=ax00z"   alt="languages graph"   />
-</a>
