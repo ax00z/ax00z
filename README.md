@@ -7,9 +7,11 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ax00z&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars,prs,issues&custom_title=GitHub" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ax00z&theme=github_dark&hide_border=true&layout=compact&hide=html,css" />
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-black?style=flat-square&logo=githubactions&logoColor=white)
 
 <br>
 </div>
