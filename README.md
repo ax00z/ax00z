@@ -1,13 +1,13 @@
 <div align="center">
 <br>
 
-**amir ranjbar** &nbsp;·&nbsp; Toronto
+**Amir** &nbsp;·&nbsp; Toronto
 
-<sub>cs grad. building data tools for urban analysis and investigation.</sub>
+<sub>Building data tools for urban analysis and investigation.</sub>
 
 <br>
 
-`TypeScript` &nbsp; `React` &nbsp; `Python` &nbsp; `Tailwind` &nbsp; `Zustand` &nbsp; `Docker`
+`Rust` &nbsp; `React` &nbsp; `Python` &nbsp; `Tailwind` &nbsp; `Zustand` &nbsp; `Docker`
 
 <br>
 </div>
