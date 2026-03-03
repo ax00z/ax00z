@@ -22,10 +22,9 @@
 
 | | |
 |---|---|
-| [**locktrace**](https://github.com/ax00z/Locktrace) | toronto theft intelligence — hourly arcgis ingestion, 90-day rolling window, auto-commit pipeline |
-| [**asr**](https://github.com/ax00z/ASR) | asset safety radar — live TPS open data, spatial clustering, neighbourhood risk scoring |
 | [**threadline**](https://github.com/ax00z/Threadline) | communication forensics — streaming whatsapp parser, multi-format timestamp extraction |
-| [**feather**](https://github.com/ax00z/Feather) | financial variance tracker — raw stream to trend analysis |
+| [**locktrace**](https://github.com/ax00z/Locktrace) | toronto theft intelligence — hourly arcgis ingestion, 90-day rolling window, auto-commit pipeline |
+| [**feather**](https://github.com/ax00z/Feather) | weather app — raw stream to trend analysis |
 | [**bye-exif**](https://github.com/ax00z/bye-exif) | metadata stripping — containerized exif forensics tool |
 | [**now-**](https://github.com/ax00z/Now-) | browser media workflow tool |
 
