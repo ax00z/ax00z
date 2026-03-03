@@ -1,7 +1,7 @@
 <div align="center">
 <br>
 
-**amir ranjbar** &nbsp;·&nbsp; Toronto
+**Amir** &nbsp;·&nbsp; Toronto
 
 <sub>urban data analysis &nbsp;·&nbsp; automated ingestion pipelines &nbsp;·&nbsp; forensic tooling</sub>
 
