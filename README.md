@@ -1,13 +1,15 @@
 <div align="center">
 <br>
 
-**Amir** &nbsp;·&nbsp; Toronto
+**amir ranjbar** &nbsp;·&nbsp; Toronto
 
-<sub>Building data tools for urban analysis and investigation.</sub>
+<sub>urban data analysis &nbsp;·&nbsp; automated ingestion pipelines &nbsp;·&nbsp; forensic tooling</sub>
 
 <br>
 
-`Rust` &nbsp; `React` &nbsp; `Python` &nbsp; `Tailwind` &nbsp; `Zustand` &nbsp; `Docker`
+<img src="https://github-readme-stats.vercel.app/api?username=ax00z&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars,prs,issues&custom_title=GitHub" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ax00z&theme=github_dark&hide_border=true&layout=compact&hide=html,css" />
 
 <br>
 </div>
@@ -18,12 +20,12 @@
 
 | | |
 |---|---|
-| [**locktrace**](https://github.com/ax00z/Locktrace) | toronto theft analytics dashboard — arcgis pipeline, automated scraping, interactive heatmaps |
-| [**asr**](https://github.com/ax00z/ASR) | asset safety radar — real-time theft map with deck.gl clustering and neighbourhood breakdowns |
-| [**threadline**](https://github.com/ax00z/Threadline) | whatsapp forensics parser — streaming O(1) parser, multi-format timestamp support |
-| [**feather**](https://github.com/ax00z/Feather) | financial variance dashboard — raw data streams to visual history |
-| [**bye-exif**](https://github.com/ax00z/bye-exif) | containerized exif stripper — metadata removal for privacy compliance |
-| [**now-**](https://github.com/ax00z/Now-) | browser tool for stream/download workflow |
+| [**locktrace**](https://github.com/ax00z/Locktrace) | toronto theft intelligence — hourly arcgis ingestion, 90-day rolling window, auto-commit pipeline |
+| [**asr**](https://github.com/ax00z/ASR) | asset safety radar — live TPS open data, spatial clustering, neighbourhood risk scoring |
+| [**threadline**](https://github.com/ax00z/Threadline) | communication forensics — streaming whatsapp parser, multi-format timestamp extraction |
+| [**feather**](https://github.com/ax00z/Feather) | financial variance tracker — raw stream to trend analysis |
+| [**bye-exif**](https://github.com/ax00z/bye-exif) | metadata stripping — containerized exif forensics tool |
+| [**now-**](https://github.com/ax00z/Now-) | browser media workflow tool |
 
 ---
 
