@@ -3,17 +3,8 @@
 
 **Amir** &nbsp;·&nbsp; Toronto
 
-<sub>urban data analysis &nbsp;·&nbsp; automated ingestion pipelines &nbsp;·&nbsp; forensic tooling</sub>
+<sub>Urban data analysis &nbsp;·&nbsp; Automated ingestion pipelines &nbsp;·&nbsp; Forensic tooling</sub>
 
-<br>
-
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-black?style=flat-square&logo=githubactions&logoColor=white)
-
-<br>
 </div>
 
 ---
@@ -22,11 +13,11 @@
 
 | | |
 |---|---|
-| [**threadline**](https://github.com/ax00z/Threadline) | communication forensics — streaming whatsapp parser, multi-format timestamp extraction |
-| [**locktrace**](https://github.com/ax00z/Locktrace) | toronto theft intelligence — hourly arcgis ingestion, 90-day rolling window, auto-commit pipeline |
-| [**feather**](https://github.com/ax00z/Feather) | weather app — raw stream to trend analysis |
-| [**bye-exif**](https://github.com/ax00z/bye-exif) | metadata stripping — containerized exif forensics tool |
-| [**now-**](https://github.com/ax00z/Now-) | browser media workflow tool |
+| [**Threadline**](https://github.com/ax00z/Threadline) | communication forensics — streaming whatsapp parser, multi-format timestamp extraction |
+| [**Locktrace**](https://github.com/ax00z/Locktrace) | toronto theft intelligence — hourly arcgis ingestion, 90-day rolling window, auto-commit pipeline |
+| [**Feather**](https://github.com/ax00z/Feather) | weather app — raw stream to trend analysis |
+| [**Bye-exif**](https://github.com/ax00z/bye-exif) | metadata stripping — containerized exif forensics tool |
+| [**Now-**](https://github.com/ax00z/Now-) | browser media workflow tool |
 
 ---
 
