@@ -13,10 +13,10 @@
 
 | | |
 |---|---|
-| [**Threadline**](https://github.com/ax00z/Threadline) | communication forensics — streaming whatsapp parser, multi-format timestamp extraction |
-| [**Locktrace**](https://github.com/ax00z/Locktrace) | toronto theft intelligence — hourly arcgis ingestion, 90-day rolling window, auto-commit pipeline |
-| [**Feather**](https://github.com/ax00z/Feather) | weather app — raw stream to trend analysis |
-| [**Bye-exif**](https://github.com/ax00z/bye-exif) | metadata stripping — containerized exif forensics tool |
+| [**Threadline**](https://github.com/ax00z/Threadline) | communication forensics with streaming whatsapp parser, multi-format timestamp extraction |
+| [**Locktrace**](https://github.com/ax00z/Locktrace) | city of toronto theft intelligence with hourly arcgis ingestion, 90-day rolling window, auto-commit pipeline |
+| [**Feather**](https://github.com/ax00z/Feather) | weather app with raw stream to trend analysis |
+| [**Bye-exif**](https://github.com/ax00z/bye-exif) | metadata stripping with containerized exif forensics tool |
 | [**Now-**](https://github.com/ax00z/Now-) | browser media workflow tool |
 
 ---
