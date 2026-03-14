@@ -3,7 +3,7 @@
 
 **Amir** &nbsp;·&nbsp; Toronto
 
-<sub>Urban data analysis &nbsp;·&nbsp; Automated ingestion pipelines &nbsp;·&nbsp; Forensic tooling</sub>
+<sub>Urban data analysis &nbsp;·&nbsp; Automated data pipelines &nbsp;·&nbsp; Forensic tooling</sub>
 
 </div>
 
